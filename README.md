@@ -1,4 +1,4 @@
-# Phase-Space-Hamiltonian
+# Hamiltonian-Phase-Portrait
 
 This is a code to plot Hamiltonian field from a given Hamiltonian.
 That's all :)
