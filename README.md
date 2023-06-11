@@ -8,6 +8,5 @@ In the folder you will find a jupyter code, a pyhton code and some plots of know
 If you see errors or you want to ask anything, feel free to contact me.
 
 
-
-https://github.com/Kiize/Hamiltonian-Phase-Portrait/assets/82241670/eefe39a4-bef6-4b01-a962-20a88f87980c
+https://github.com/Kiize/Hamiltonian-Phase-Portrait/blob/main/In%20python/Hamiltoniana%20di%20Lorenzo.mp4
 
